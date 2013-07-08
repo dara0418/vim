@@ -1,1 +1,0 @@
-/home/dara0418/.vim

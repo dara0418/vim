@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/dara0418/working/megaphone/mainline/megaphone'
+let g:netrw_dirhist_2='/home/dara0418/working/megaphone/mainline'
+let g:netrw_dirhist_3='/home/dara0418/working/megaphone/mainline/megaphone'
+let g:netrw_dirhist_4='/home/dara0418/working/megaphone/mainline/megaphone/api'
+let g:netrw_dirhist_5='/home/dara0418/working/megaphone/old-api-test-branch/megaphone/api'
+let g:netrw_dirhist_6='/home/dara0418/working/carpolling/happything/trunk/dara/test'
+let g:netrw_dirhist_7='/home/dara0418/working/carpolling/happything/trunk/dara/db'
+let g:netrw_dirhist_8='/home/dara0418/working/carpolling/happything/trunk/dara/happything/db'
+let g:netrw_dirhist_9='/home/dara0418/working/megaphone/mainline/megaphone/scripts'
